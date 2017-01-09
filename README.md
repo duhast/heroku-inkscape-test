@@ -18,3 +18,13 @@ Heroku Cedar 14 stack. Ubuntu 14.04
 	libMagick++.so.5 => not found+
 	libpoppler.so.44 => not found
 	libpoppler-glib.so.8 => not found
+	
+---
+	
+    ~ $ lsb_release -a
+    No LSB modules are available.
+    Distributor ID:	Ubuntu
+    Description:	Ubuntu 14.04.5 LTS
+    Release:	14.04
+    Codename:	trusty
+	
