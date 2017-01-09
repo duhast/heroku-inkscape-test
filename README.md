@@ -28,3 +28,6 @@ Heroku Cedar 14 stack. Ubuntu 14.04
     Release:	14.04
     Codename:	trusty
 	
+	
+Do not use units other than _px_
+> ** (process:14): WARNING **: Units file /usr/share/inkscape/ui/units.xml is missing: Failed to open file '/usr/share/inkscape/ui/units.xml': No such file or directory	
