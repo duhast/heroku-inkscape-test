@@ -6,7 +6,7 @@ libpangomm-1.4-1
 libgc1c2
 libcairomm-1.0-1
 libglibmm-2.4-1c2a
-libgsl2
+libgsl0ldbl
 libsigc++-2.0-0c2a
 libaspell15
 libwpg-0.2-2
